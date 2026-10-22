@@ -1,0 +1,2 @@
+# SIGNALX-Self-Healing-Receiver-for-Blind-Spectrum-Decoding-
+SIGNALX is an automated RF signal analysis and decoding system designed to identify and recover unknown signals from IQ/WAV recordings without requiring prior knowledge of modulation, symbol rate, interleaving, or FEC parameters.  The system combines Digital Signal Processing (DSP), Deep Learning, synchronization, error correction, and self-healing
